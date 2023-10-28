@@ -1,5 +1,6 @@
 # Road-Accidents-Power-Bi-
 Requirement 
+
 Clients want to create a road accident Dashboard for the year 2021 and 2022 so that they can have insight on 
 the below requirement.
 
@@ -10,3 +11,15 @@ Monthly Trend showing comparision of casualties for Current year Previous year.
 Casualties by Road Type for the current year.
 Current year casualties by Area/Location & by Day/Night.
 Total Casualties and Total Accidents by Location.
+
+
+Stakeholders 
+Ministry of transport 
+Road Transport Department 
+Police Force
+Emergency Services Department 
+Road Safety Corps
+Transport Operators 
+Traffic Management Agencies
+Public 
+Media
