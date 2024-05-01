@@ -23,3 +23,5 @@ the below requirement.**
 + Traffic Management Agencies
 + Public 
 + Media
+
+![Road Accidents Dashboard (1)](https://github.com/BernardGomes7/Road-Accidents-Power-Bi-/assets/142295218/64e537c4-fe1d-41f5-8f54-15dfe8d24d9b)
